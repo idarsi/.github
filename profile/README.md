@@ -1,6 +1,6 @@
 ## Welcome to ^(ida|arsi)$ collective!
 
-This is collection of our public "stuff".
-
 > [!IMPORTANT]
 > Everything here is under development and not considered as production quality
+
+ansible-iac-* repositories are part of the project to transform ansible inventories into configuration blueprints. You are able to combine them together.
