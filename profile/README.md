@@ -61,6 +61,7 @@ The project is being developed toward a common infrastructure abstraction where 
 
 | Name                          | Maturity Level     |
 |-------------------------------|--------------------|
+| ansible-iac-role-barman       | Experimental       |
 | ansible-iac-role-dovecot      | Alpha              |
 | ansible-iac-role-firewalld    | Alpha              |
 | ansible-iac-role-nginx        | Alpha              |
