@@ -57,3 +57,8 @@ The repositories under the **idarsi** organization contain the reusable Ansible 
 
 The project is being developed toward a common infrastructure abstraction where increasingly complex environments can be designed, validated, deployed and maintained from the same declarative blueprint.
 
+### Repositories
+
+| Name                          | State     |
+|-------------------------------|-----------|
+| ansible-iac-role-postgresql   | Beta      |
