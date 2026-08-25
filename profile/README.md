@@ -72,12 +72,11 @@ The project is being developed toward a common infrastructure abstraction where 
 
 ### Maturity Levels
 
-| Maturity Level   | Description                                                                     |
-| ---------------- | ------------------------------------------------------------------------------- |
-| **Experimental** | Early prototype. Interfaces and behavior may change freely.                     |
-| **Alpha**        | Core functionality works, but important features or tests are still incomplete. |
-| **Beta**         | Main functionality is complete and tested, but changes may still occur.         |
-| **Stable**       | Production-ready, well tested, and backward compatibility is expected.          |
-| **Mature**       | Proven stable in long-term real-world use with broad test coverage.             |
-
-
+| Maturity Level         | Description                                                                     |
+| ---------------------- | ------------------------------------------------------------------------------- |
+| **Experimental**       | Early prototype. Interfaces and behavior may change freely.                     |
+| **Alpha**              | Core functionality works, but important features or tests are still incomplete. |
+| **Beta**               | Main functionality is complete and tested, but changes may still occur.         |
+| **Release Candidate**  | Feature-complete and extensively tested. Candidate for Stable.                  |
+| **Stable**             | Production-ready, well tested, and backward compatibility is expected.          |
+| **Mature**             | Proven stable in long-term real-world use with broad test coverage.             |
