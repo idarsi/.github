@@ -59,16 +59,16 @@ The project is being developed toward a common infrastructure abstraction where 
 
 ### Repositories
 
-| Name                                  | Maturity Level     |
-|---------------------------------------|--------------------|
-| ansible-iac-role-barman               | Experimental       |
-| ansible-iac-role-dovecot              | Alpha              |
-| ansible-iac-role-firewalld            | Alpha              |
-| ansible-iac-role-nginx                | Alpha              |
-| ansible-iac-role-podman               | Beta               |
-| ansible-iac-role-postfix              | Beta               |
-| ansible-iac-role-postgresql           | Beta               |
-| idarsi-ansible-role-development-guide | Beta               |
+| Name                                  | Maturity           | RC Readiness |
+|---------------------------------------|--------------------|--------------|
+| ansible-iac-role-barman               | Experimental       |              |
+| ansible-iac-role-dovecot              | Alpha              |              |
+| ansible-iac-role-firewalld            | Alpha              |              |
+| ansible-iac-role-nginx                | Alpha              |              |
+| ansible-iac-role-podman               | Beta               | 78%          |
+| ansible-iac-role-postfix              | Beta               |              |
+| ansible-iac-role-postgresql           | Beta               | 80%          |
+| idarsi-ansible-role-development-guide | Beta               |              |
 
 ### Maturity Levels
 
