@@ -64,13 +64,14 @@ The project is being developed toward a common infrastructure abstraction where 
 | ansible-iac-role-barman               | Experimental       |              |
 | ansible-iac-role-dovecot              | Alpha              |              |
 | ansible-iac-role-firewalld            | Alpha              |              |
+| ansible-iac-role-identity             | Release Candidate  | 100%         |
 | ansible-iac-role-nginx                | Alpha              |              |
 | ansible-iac-role-podman               | Beta               | 78%          |
 | ansible-iac-role-postfix              | Beta               |              |
 | ansible-iac-role-postgresql           | Beta               | 80%          |
 | idarsi-ansible-role-development-guide | Beta               |              |
 
-### Maturity Levels
+### Maturity
 
 | Maturity Level         | Description                                                                     |
 | ---------------------- | ------------------------------------------------------------------------------- |
@@ -80,3 +81,7 @@ The project is being developed toward a common infrastructure abstraction where 
 | **Release Candidate**  | Feature-complete and extensively tested. Candidate for Stable.                  |
 | **Stable**             | Production-ready, well tested, and backward compatibility is expected.          |
 | **Mature**             | Proven stable in long-term real-world use with broad test coverage.             |
+
+### RC Readiness
+
+RC Readiness gives approximation percentage how far we are from release candidate maturity.
