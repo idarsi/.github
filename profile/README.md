@@ -69,6 +69,7 @@ The project is being developed toward a common infrastructure abstraction where 
 | ansible-iac-role-podman               | Beta               | 78%          |
 | ansible-iac-role-postfix              | Beta               |              |
 | ansible-iac-role-postgresql           | Beta               | 80%          |
+| ansible-iac-role-valkey               | Beta               | 88%          |
 | idarsi-ansible-role-development-guide | Beta               |              |
 
 ### Maturity
