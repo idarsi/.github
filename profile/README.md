@@ -61,7 +61,7 @@ The project is being developed toward a common infrastructure abstraction where 
 
 | Name                                  | Maturity           | RC Readiness |
 |---------------------------------------|--------------------|--------------|
-| ansible-iac-role-barman               | Experimental       |              |
+| ansible-iac-role-barman               | Beta               | 84%          |
 | ansible-iac-role-ceph                 | Beta               | 73%          |
 | ansible-iac-role-dovecot              | Beta               | 78%          |
 | ansible-iac-role-firewalld            | Alpha              | 66%          |
