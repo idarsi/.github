@@ -67,10 +67,11 @@ The project is being developed toward a common infrastructure abstraction where 
 | ansible-iac-role-firewalld            | Alpha              | 66%          |
 | ansible-iac-role-identity             | Release Candidate  | 100%         |
 | ansible-iac-role-nginx                | Beta               | 86%          |
-| ansible-iac-role-podman               | Beta               | 78%          |
+| ansible-iac-role-podman               | Beta               | 81%          |
 | ansible-iac-role-postfix              | Beta               | 82%          |
 | ansible-iac-role-postgresql           | Beta               | 80%          |
 | ansible-iac-role-valkey               | Beta               | 88%          |
+| ansible-iac-shared-tasks              | Alpha              | 43%          |
 | idarsi-ansible-role-development-guide | Beta               |              |
 
 ### Maturity
